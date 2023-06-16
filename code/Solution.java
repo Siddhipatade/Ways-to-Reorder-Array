@@ -47,7 +47,7 @@ class Solution {
     
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int[] nums = {2, 1, 3};
+        int[] nums = {4, 1, 6, 9, 1};
         int result = solution.numOfWays(nums);
         System.out.println(result);
     }
