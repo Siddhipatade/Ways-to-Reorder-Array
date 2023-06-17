@@ -1,4 +1,4 @@
-# Reorder Array to Get Same BST
+# Number of ways to Reorder Array to Get Same BST
 
 This repository contains a Java solution to a problem of reordering an array to construct a Binary Search Tree (BST) that is identical to the original BST formed from the array. The solution uses a recursive approach and dynamic programming to compute the number of ways to reorder the array.
 
